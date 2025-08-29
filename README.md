@@ -19,7 +19,7 @@ Also includes **Clear (C)** and **Cut (⌫)** buttons for easy editing.
 ---
 
 ## 📸 Preview
-![Calculator Screenshot](https://via.placeholder.com/400x250.png?text=Calculator+Preview)
+![Calculator Screenshot](https://github.com/Abhishek-Bharti-2025/Basic_Calculator/blob/main/images/Screenshot%202025-08-29%20224945.png?raw=true)
 
 ---
 
